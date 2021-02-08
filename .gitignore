@@ -1,9 +1,4 @@
+.Rproj.user
 .Rhistory
 .RData
-.Rproj.user
-_book
-_bookdown_files
-*.rds
-*.key
-*.docx
-.Rapp.history
+.Ruserdata
